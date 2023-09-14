@@ -5,4 +5,4 @@ set -e
 docker pull jyothika07/simple-python-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 jyothika07/simple-python-app
+docker run -d -p 5000:5000 jyothika07/simple-python-app 
